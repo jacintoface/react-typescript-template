@@ -1,0 +1,6 @@
+!.*.js
+es/**/*
+lib/**/*
+node_modules
+dist
+webpack
